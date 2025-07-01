@@ -1,9 +1,3 @@
- Thanks! Based on the format you provided from the Diwali Sales project, I’ve rewritten your README content into the same **clean, structured, and beginner-friendly format** for your **Loan Approval Analysis Project**.
-
-Here's the updated and complete version:
-
----
-
 # 🏦 Loan Approval Analysis Project
 
 Welcome to the **Loan Approval Data Analysis** project! This repository provides a complete breakdown of how I collected, cleaned, explored, and visualized data related to loan applications to uncover business insights and build an interactive Power BI dashboard.
@@ -58,15 +52,11 @@ Columns include:
 
 2. **Loan Status by Education & Employment**
 
-   * Clustered bar chart comparing approval rates
-
 3. **Income vs Loan Amount**
-
-   * Scatter plot with trend line
 
 4. **CIBIL Score Distribution**
 
-   * Histogram of applicant credit scores
+   * Histogram of applicant  scores
 
 5. **Average Loan by Number of Dependents**
 
@@ -74,11 +64,11 @@ Columns include:
 
 6. **Asset Distribution by Loan Status**
 
-   * Clustered bar comparing asset values of approved vs rejected
+   * comparing asset values of approved vs rejected
 
 7. **KPI Cards**
 
-   * Average loan amount, income, approval %, and more
+   * Average loan amount, Average income, Total loan id, Average of cibil score
 
 ---
 
@@ -123,7 +113,7 @@ To explore the dashboard, open the `.pbix` file in Power BI Desktop.
 
 **Krishna Kumar**
 Aspiring Data Analyst | Skilled in Python, Pandas, Power BI, SQL
-📫 [LinkedIn](https://linkedin.com/in/your-profile) | ✉️ [your.email@example.com](mailto:your.email@example.com)
+📫 [LinkedIn](https://www.linkedin.com/in/krishna-k-361225277/) | ✉️ [your.email@example.com](krishnakumar995088.email@example.com)
 
 ---
 
