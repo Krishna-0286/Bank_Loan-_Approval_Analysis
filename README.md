@@ -77,9 +77,8 @@ Columns include:
 ---
 
 ## 📸 Dashboard Preview
-To explore the dashboard, open the `.pbix` file in Power BI Desktop.
+*To explore the dashboard, open the `.pbix` file in Power BI Desktop.
 *[Powerbi_dashboard](https://github.com/Krishna-0286/Bank_Loan-_Approval_Analysis/blob/main/BANK%20LOAN%20APPROVAL%20ANALYSIS.pbix)
-*Screen Shot of Dashboard
 *[Pic_of_dashboard](https://github.com/Krishna-0286/Bank_Loan-_Approval_Analysis/blob/main/BANK%20LOAN%20APPROVAL%20ANALYSS.png)
 
 
