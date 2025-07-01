@@ -92,7 +92,8 @@ Columns include:
 ---
 
 ## 📸 Dashboard Preview
-  https://github.com/Krishna-0286/Bank_Loan-_Approval_Analysis/blob/main/BANK%20LOAN%20APPROVAL%20ANALYSIS.pbix
+To explore the dashboard, open the `.pbix` file in Power BI Desktop.
+[link of power bi dashboard]  (https://github.com/Krishna-0286/Bank_Loan-_Approval_Analysis/blob/main/BANK%20LOAN%20APPROVAL%20ANALYSIS.pbix)
 
 
 ---
@@ -114,7 +115,7 @@ To explore the dashboard, open the `.pbix` file in Power BI Desktop.
 
 **Krishna Kumar**
 Aspiring Data Analyst | Skilled in Python, Pandas, Power BI, SQL
-📫 [LinkedIn](https://www.linkedin.com/in/krishna-k-361225277/) | ✉️ [your.email@example.com](krishnakumar995088.email@example.com)
+📫 [krishna-LinkedIn](https://www.linkedin.com/in/krishna-k-361225277/) | ✉️ [krishnakumar.email@example.com](krishnakumar995088.email@example.com)
 
 ---
 
