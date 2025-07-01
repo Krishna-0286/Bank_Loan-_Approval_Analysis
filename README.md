@@ -92,6 +92,7 @@ Columns include:
 ---
 
 ## 📸 Dashboard Preview
+  https://github.com/Krishna-0286/Bank_Loan-_Approval_Analysis/blob/main/BANK%20LOAN%20APPROVAL%20ANALYSIS.pbix
 
 
 ---
