@@ -78,9 +78,9 @@ Columns include:
 
 ## 📸 Dashboard Preview
 To explore the dashboard, open the `.pbix` file in Power BI Desktop.
-[link_of_Powerbi_dashboard]  (https://github.com/Krishna-0286/Bank_Loan-_Approval_Analysis/blob/main/BANK%20LOAN%20APPROVAL%20ANALYSIS.pbix)
-Screen Shot of Dashboard
-[Pic_of_dashboard](https://github.com/Krishna-0286/Bank_Loan-_Approval_Analysis/blob/main/BANK%20LOAN%20APPROVAL%20ANALYSS.png)
+*[link_of_Powerbi_dashboard]  (https://github.com/Krishna-0286/Bank_Loan-_Approval_Analysis/blob/main/BANK%20LOAN%20APPROVAL%20ANALYSIS.pbix)*
+*Screen Shot of Dashboard*
+*[Pic_of_dashboard](https://github.com/Krishna-0286/Bank_Loan-_Approval_Analysis/blob/main/BANK%20LOAN%20APPROVAL%20ANALYSS.png)*
 
 
 ---
@@ -103,7 +103,11 @@ To explore the dashboard, open the `.pbix` file in Power BI Desktop.
 **Krishna Kumar**
 Aspiring Data Analyst | Skilled in Python, Pandas, Power BI, SQL
 📫 [krishna-LinkedIn](https://www.linkedin.com/in/krishna-k-361225277/) | ✉️ [krishnakumar.email@example.com](krishnakumar995088.email@example.com)
-
+ * Languages: Python, Sql, Pandas, Numpy, Power BI, Html,Oop
+ * Developer Tools:Visual Studio Code, Jupyter Notebook, Google Colab
+ * Cloud/Databases: Mysql
+ * Soft Skills: Communication skill, Team work,Teaching skill,Leadership skill
+ * Areas of Interest:Data Analyst, Artificial Intelligence
 ---
 
 ## ✨ License
