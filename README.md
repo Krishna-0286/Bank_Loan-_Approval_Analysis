@@ -47,28 +47,13 @@ Columns include:
 ## 📊 Key Visualizations & Dashboard Components
 
 1. **Loan Approval Overview**
-
-   * Pie/Donut chart showing Approved vs Rejected loans
-
 2. **Loan Status by Education & Employment**
-
 3. **Income vs Loan Amount**
-
 4. **CIBIL Score Distribution**
-
-   * Histogram of applicant  scores
-
 5. **Average Loan by Number of Dependents**
-
-   * Column chart
-
 6. **Asset Distribution by Loan Status**
-
-   * comparing asset values of approved vs rejected
-
 7. **KPI Cards**
-
-   * Average loan amount, Average income, Total loan id, Average of cibil score
+ * Average loan amount, Average income, Total loan id, Average of cibil score
 
 ---
 
@@ -93,7 +78,9 @@ Columns include:
 
 ## 📸 Dashboard Preview
 To explore the dashboard, open the `.pbix` file in Power BI Desktop.
-[link of power bi dashboard]  (https://github.com/Krishna-0286/Bank_Loan-_Approval_Analysis/blob/main/BANK%20LOAN%20APPROVAL%20ANALYSIS.pbix)
+[link_of_Powerbi_dashboard]  (https://github.com/Krishna-0286/Bank_Loan-_Approval_Analysis/blob/main/BANK%20LOAN%20APPROVAL%20ANALYSIS.pbix)
+Screen Shot of Dashboard
+[Pic_of_dashboard](https://github.com/Krishna-0286/Bank_Loan-_Approval_Analysis/blob/main/BANK%20LOAN%20APPROVAL%20ANALYSS.png)
 
 
 ---
